@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MatikPlus/static/css/main.04ffcae9.css",
-    "main.js": "/MatikPlus/static/js/main.fa46fb30.js",
+    "main.css": "/MatikPlus/static/css/main.eae6ee45.css",
+    "main.js": "/MatikPlus/static/js/main.883bb81d.js",
     "static/js/453.c7ccbb59.chunk.js": "/MatikPlus/static/js/453.c7ccbb59.chunk.js",
     "static/media/DaireAlanCevreHesaplama.png": "/MatikPlus/static/media/DaireAlanCevreHesaplama.00e591aa368a4986b7f7.png",
     "static/media/EbobEkok.png": "/MatikPlus/static/media/EbobEkok.3b04b6a8e63113309539.png",
@@ -13,12 +13,12 @@
     "static/media/BirimCevirici.png": "/MatikPlus/static/media/BirimCevirici.da7b4eba64b72ca31c56.png",
     "static/media/KareAlanCevreHesaplama.png": "/MatikPlus/static/media/KareAlanCevreHesaplama.c8d3b2e5b0edc289f998.png",
     "index.html": "/MatikPlus/index.html",
-    "main.04ffcae9.css.map": "/MatikPlus/static/css/main.04ffcae9.css.map",
-    "main.fa46fb30.js.map": "/MatikPlus/static/js/main.fa46fb30.js.map",
+    "main.eae6ee45.css.map": "/MatikPlus/static/css/main.eae6ee45.css.map",
+    "main.883bb81d.js.map": "/MatikPlus/static/js/main.883bb81d.js.map",
     "453.c7ccbb59.chunk.js.map": "/MatikPlus/static/js/453.c7ccbb59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04ffcae9.css",
-    "static/js/main.fa46fb30.js"
+    "static/css/main.eae6ee45.css",
+    "static/js/main.883bb81d.js"
   ]
 }
