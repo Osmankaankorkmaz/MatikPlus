@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MatikPlus/static/css/main.04ffcae9.css",
+    "main.js": "/MatikPlus/static/js/main.fa46fb30.js",
+    "static/js/453.c7ccbb59.chunk.js": "/MatikPlus/static/js/453.c7ccbb59.chunk.js",
+    "static/media/DaireAlanCevreHesaplama.png": "/MatikPlus/static/media/DaireAlanCevreHesaplama.00e591aa368a4986b7f7.png",
+    "static/media/EbobEkok.png": "/MatikPlus/static/media/EbobEkok.3b04b6a8e63113309539.png",
+    "static/media/ÜçgenAlanCevreHesaplama.png": "/MatikPlus/static/media/ÜçgenAlanCevreHesaplama.febe8a96fa98978b7260.png",
+    "static/media/DikdörtgenAlanCevreHesaplama.png": "/MatikPlus/static/media/DikdörtgenAlanCevreHesaplama.f07e0aeb80d20a5087f3.png",
+    "static/media/MatikPlusLogo.png": "/MatikPlus/static/media/MatikPlusLogo.a250ff8393d2a1c515dd.png",
+    "static/media/NotHesapla.png": "/MatikPlus/static/media/NotHesapla.ed501af3e4b2b7be25bc.png",
+    "static/media/HesapMakinesi.png": "/MatikPlus/static/media/HesapMakinesi.f4b3dae2cb7fd7444265.png",
+    "static/media/BirimCevirici.png": "/MatikPlus/static/media/BirimCevirici.da7b4eba64b72ca31c56.png",
+    "static/media/KareAlanCevreHesaplama.png": "/MatikPlus/static/media/KareAlanCevreHesaplama.c8d3b2e5b0edc289f998.png",
+    "index.html": "/MatikPlus/index.html",
+    "main.04ffcae9.css.map": "/MatikPlus/static/css/main.04ffcae9.css.map",
+    "main.fa46fb30.js.map": "/MatikPlus/static/js/main.fa46fb30.js.map",
+    "453.c7ccbb59.chunk.js.map": "/MatikPlus/static/js/453.c7ccbb59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ffcae9.css",
+    "static/js/main.fa46fb30.js"
+  ]
+}
