@@ -1,4 +1,4 @@
-# 📚 Matematiksel Araçlar ve Hesaplamalar Web Uygulaması
+# 📚 MatikPlus - Matematiksel Araçlar ve Hesaplamalar Web Uygulaması
 
 Bu web uygulaması, matematiksel hesaplamalar yapmanızı sağlayan bir araç seti sunar. Hem öğrenciler hem de matematikle ilgilenen herkes için kullanışlıdır. Uygulama, çeşitli hesaplama araçları, ipuçları ve matematiksel terimler içerir. Her bir hesaplama aracı, kolay anlaşılır arayüzlerle kullanıcılara sunulmuştur.
 
@@ -77,7 +77,7 @@ Matematiksel terimler hakkında kısa açıklamalar:
 
 ---
 
-## 🔧 Kurulum ve Çalıştırma
+### 🔧 Kurulum ve Çalıştırma
 
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -96,3 +96,11 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 4. **Projeyi Çalıştır:**
    ```bash
    npm start
+---
+
+   Uygulama tarayıcınızda şu adreste çalışacaktır: http://localhost:3000
+
+---
+
+### 📄 Lisans
+Bu proje MIT lisansı altında sunulmaktadır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
