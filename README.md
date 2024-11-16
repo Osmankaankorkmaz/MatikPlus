@@ -10,7 +10,6 @@ Bu web uygulaması, matematiksel hesaplamalar yapmanızı sağlayan bir araç se
 
 #### 1. **Temel Hesap Makinesi**
    - **Açıklama:** Basit matematiksel işlemler (toplama, çıkarma, çarpma, bölme) için kullanılabilir. Günlük matematiksel işlemlerinizde size yardımcı olacak pratik bir araçtır.
-   - **Ekran Görüntüsü:** ![Temel Hesap Makinesi](./src/img/HesapMakinesi.png)
    - **Özellikler:**
      - Toplama
      - Çıkarma
@@ -19,49 +18,42 @@ Bu web uygulaması, matematiksel hesaplamalar yapmanızı sağlayan bir araç se
 
 #### 2. **Not Hesaplama Aracı**
    - **Açıklama:** Okul notlarınızı girerek ortalamanızı hesaplamanızı sağlar. Ayrıca, belirli bir notun ders ortalamanız üzerindeki etkisini hızlıca görebilirsiniz.
-   - **Ekran Görüntüsü:** ![Not Hesaplama](./src/img/NotHesapla.png)
    - **Özellikler:**
      - Final ve vize notlarını hesaplama
      - Ortalamayı görsel olarak gösterme
 
 #### 3. **Dikdörtgen Alan ve Çevre Hesaplama**
    - **Açıklama:** Dikdörtgenin alanını ve çevresini kolayca hesaplamanızı sağlar. Uzunluk ve genişlik değerlerini girerek hesaplama yapabilirsiniz.
-   - **Ekran Görüntüsü:** ![Dikdörtgen Hesaplama](./src/img/DikdörtgenAlanCevreHesaplama.png)
    - **Özellikler:**
      - Alan = Uzunluk × Genişlik
      - Çevre = 2 × (Uzunluk + Genişlik)
 
 #### 4. **Kare Alan ve Çevre Hesaplama**
    - **Açıklama:** Bir kare şeklinin alan ve çevresini hızlıca hesaplamak için kullanılan araçtır. Kenar uzunluğu girildiğinde otomatik olarak hesaplama yapılır.
-   - **Ekran Görüntüsü:** ![Kare Hesaplama](./src/img/KareAlanCevreHesaplama.png)
    - **Özellikler:**
      - Alan = Kenar × Kenar
      - Çevre = 4 × Kenar
 
 #### 5. **Daire Alan ve Çevre Hesaplama**
    - **Açıklama:** Dairelerin alanını ve çevresini hesaplamak için kullanılan bu araç, çap veya yarıçap bilgisini alır ve hesaplamaları yapar.
-   - **Ekran Görüntüsü:** ![Daire Hesaplama](./src/img/DaireAlanCevreHesaplama.png)
    - **Özellikler:**
      - Alan = π × (Yarıçap)^2
      - Çevre = 2 × π × Yarıçap
 
 #### 6. **Üçgen Alan ve Çevre Hesaplama**
    - **Açıklama:** Üçgenin alanını hesaplamak için taban ve yükseklik değerlerini girerek hesaplama yapabilirsiniz. Ayrıca, kenar uzunluklarına göre çevre hesaplanabilir.
-   - **Ekran Görüntüsü:** ![Üçgen Hesaplama](./src/img/ÜçgenAlanCevreHesaplama.png)
    - **Özellikler:**
      - Alan = 1/2 × Taban × Yükseklik
      - Çevre = Kenar1 + Kenar2 + Kenar3
 
 #### 7. **Ebob ve Ekok Hesaplama**
    - **Açıklama:** Sayıların en büyük ortak böleni (EBOB) ve en küçük ortak katı (EKOK) hesaplamalarını kolayca yapmanızı sağlar.
-   - **Ekran Görüntüsü:** ![Ebob Ekok Hesaplama](./src/img/EbobEkok.png)
    - **Özellikler:**
      - EBOB: En büyük ortak bölen
      - EKOK: En küçük ortak kat
 
 #### 8. **Birim Çevirici**
    - **Açıklama:** Farklı ölçü birimlerini hızlıca çevirmek için kullanılır. Örneğin, uzunluk, ağırlık ve sıcaklık birimlerini çevirebilirsiniz.
-   - **Ekran Görüntüsü:** ![Birim Çevirici](./src/img/BirimCevirici.png)
    - **Özellikler:**
      - Uzunluk birimleri: metre, kilometre, santimetre, inç
      - Ağırlık birimleri: kilogram, gram, pound
