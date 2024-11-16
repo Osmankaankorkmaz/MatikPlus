@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# 📚 Matematiksel Araçlar ve Hesaplamalar Web Uygulaması
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bu web uygulaması, matematiksel hesaplamalar yapmanızı sağlayan bir araç seti sunar. Hem öğrenciler hem de matematikle ilgilenen herkes için kullanışlıdır. Uygulama, çeşitli hesaplama araçları, ipuçları ve matematiksel terimler içerir. Her bir hesaplama aracı, kolay anlaşılır arayüzlerle kullanıcılara sunulmuştur.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🛠️ Özellikler
 
-### `npm start`
+### 🚀 İşlemler
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### 1. **Temel Hesap Makinesi**
+   - **Açıklama:** Basit matematiksel işlemler (toplama, çıkarma, çarpma, bölme) için kullanılabilir. Günlük matematiksel işlemlerinizde size yardımcı olacak pratik bir araçtır.
+   - **Ekran Görüntüsü:** ![Temel Hesap Makinesi](./src/img/HesapMakinesi.png)
+   - **Özellikler:**
+     - Toplama
+     - Çıkarma
+     - Çarpma
+     - Bölme
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### 2. **Not Hesaplama Aracı**
+   - **Açıklama:** Okul notlarınızı girerek ortalamanızı hesaplamanızı sağlar. Ayrıca, belirli bir notun ders ortalamanız üzerindeki etkisini hızlıca görebilirsiniz.
+   - **Ekran Görüntüsü:** ![Not Hesaplama](./src/img/NotHesapla.png)
+   - **Özellikler:**
+     - Final ve vize notlarını hesaplama
+     - Ortalamayı görsel olarak gösterme
 
-### `npm test`
+#### 3. **Dikdörtgen Alan ve Çevre Hesaplama**
+   - **Açıklama:** Dikdörtgenin alanını ve çevresini kolayca hesaplamanızı sağlar. Uzunluk ve genişlik değerlerini girerek hesaplama yapabilirsiniz.
+   - **Ekran Görüntüsü:** ![Dikdörtgen Hesaplama](./src/img/DikdörtgenAlanCevreHesaplama.png)
+   - **Özellikler:**
+     - Alan = Uzunluk × Genişlik
+     - Çevre = 2 × (Uzunluk + Genişlik)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### 4. **Kare Alan ve Çevre Hesaplama**
+   - **Açıklama:** Bir kare şeklinin alan ve çevresini hızlıca hesaplamak için kullanılan araçtır. Kenar uzunluğu girildiğinde otomatik olarak hesaplama yapılır.
+   - **Ekran Görüntüsü:** ![Kare Hesaplama](./src/img/KareAlanCevreHesaplama.png)
+   - **Özellikler:**
+     - Alan = Kenar × Kenar
+     - Çevre = 4 × Kenar
 
-### `npm run build`
+#### 5. **Daire Alan ve Çevre Hesaplama**
+   - **Açıklama:** Dairelerin alanını ve çevresini hesaplamak için kullanılan bu araç, çap veya yarıçap bilgisini alır ve hesaplamaları yapar.
+   - **Ekran Görüntüsü:** ![Daire Hesaplama](./src/img/DaireAlanCevreHesaplama.png)
+   - **Özellikler:**
+     - Alan = π × (Yarıçap)^2
+     - Çevre = 2 × π × Yarıçap
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### 6. **Üçgen Alan ve Çevre Hesaplama**
+   - **Açıklama:** Üçgenin alanını hesaplamak için taban ve yükseklik değerlerini girerek hesaplama yapabilirsiniz. Ayrıca, kenar uzunluklarına göre çevre hesaplanabilir.
+   - **Ekran Görüntüsü:** ![Üçgen Hesaplama](./src/img/ÜçgenAlanCevreHesaplama.png)
+   - **Özellikler:**
+     - Alan = 1/2 × Taban × Yükseklik
+     - Çevre = Kenar1 + Kenar2 + Kenar3
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 7. **Ebob ve Ekok Hesaplama**
+   - **Açıklama:** Sayıların en büyük ortak böleni (EBOB) ve en küçük ortak katı (EKOK) hesaplamalarını kolayca yapmanızı sağlar.
+   - **Ekran Görüntüsü:** ![Ebob Ekok Hesaplama](./src/img/EbobEkok.png)
+   - **Özellikler:**
+     - EBOB: En büyük ortak bölen
+     - EKOK: En küçük ortak kat
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### 8. **Birim Çevirici**
+   - **Açıklama:** Farklı ölçü birimlerini hızlıca çevirmek için kullanılır. Örneğin, uzunluk, ağırlık ve sıcaklık birimlerini çevirebilirsiniz.
+   - **Ekran Görüntüsü:** ![Birim Çevirici](./src/img/BirimCevirici.png)
+   - **Özellikler:**
+     - Uzunluk birimleri: metre, kilometre, santimetre, inç
+     - Ağırlık birimleri: kilogram, gram, pound
+     - Sıcaklık birimleri: Celsius, Fahrenheit, Kelvin
 
-### `npm run eject`
+### 💡 İpuçları
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Matematiksel işlemler ve kavramlar hakkında bilgi edinmek için aşağıdaki ipuçlarına göz atabilirsiniz:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Dik Üçgenin Özellikleri:** Dik üçgenin en önemli özelliği, bir açısının 90 derece olmasıdır. Pisagor teoremi ile kenar uzunlukları arasında ilişki kurabilirsiniz: a² + b² = c².
+- **Oran ve Orantı:** Oran, iki sayının karşılaştırılmasıdır. Orantı ise iki oran arasındaki eşitliktir. Problemleri çözmek için oranları kullanarak, bilinmeyen değerleri bulabilirsiniz.
+- **Çarpanlar ve Katlar:** Bir sayının çarpanları, o sayıyı tam bölen sayılardır. Katlar ise bir sayının 1 ile çarpım sonuçlarıdır.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 📚 Terimler
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Matematiksel terimler hakkında kısa açıklamalar:
 
-## Learn More
+- **Dik Üçgen:** Dik üçgen, bir açısının 90 derece olduğu üçgendir. Pisagor teoremi ile tanınır.
+- **Fonksiyon:** Fonksiyon, bir girdi (x) ile bir çıktı (y) arasında belirli bir ilişki tanımlar.
+- **Kesir:** Kesir, bir bütünün parçasını temsil eder; pay ve payda ile tanımlanır.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🔧 Kurulum ve Çalıştırma
 
-### Code Splitting
+Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Depoyu Klonla:**
+   ```bash
+   git clone https://github.com/kullanici-adi/matematik-uygulamasi.git
