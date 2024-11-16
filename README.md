@@ -84,3 +84,15 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 1. **Depoyu Klonla:**
    ```bash
    git clone https://github.com/kullanici-adi/matematik-uygulamasi.git
+
+2. **Proje Klasörüne Geç:**
+   ```bash
+   cd matematik-uygulamasi
+
+3. **Bağımlılıkları Yükle:**
+   ```bash
+   npm install
+
+4. **Projeyi Çalıştır:**
+   ```bash
+   npm start
